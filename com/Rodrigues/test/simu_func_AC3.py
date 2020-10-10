@@ -1,2 +1,2 @@
 def soma(x):
-	return x + 5
+	return x + 1
